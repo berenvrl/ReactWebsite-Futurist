@@ -20,7 +20,6 @@ export default function HeroSection() {
           className="btns"
           buttonStyle="btn--primary"
           buttonSize="btn--large"
-          onClick={console.log("hey")}
         >
           WATCH TRAILER OF FUTURE
           <i className="far fa-play-circle"></i>
